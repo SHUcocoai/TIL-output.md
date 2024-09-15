@@ -1,1 +1,3 @@
-q
+TILのリポジトリの作成
+Githubのブラウザを開き、サインインして右上の自分の表示アイコンをクリックする。横から表示でyourrepositoriesが出てくるのでクリック。右上の緑色のnewをクリック。レポジトリ名を記入し、publicのままでreademeが必要な場合はチェックをつける。
+create repositoryをクリックする。editを押し記述する。右上のcommit changesでコミット完了する。mainのチェックのままで良い。
