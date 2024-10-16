@@ -215,7 +215,7 @@ ex 物理的に壊れた時
 # イーサネットアクセス制御方式  
 CSMA/CD方式  
 Carrier Sence 他にデータを送っている者がいない場合にデータの送信をする。  
-Collision Detection 同時に送信して衝突が起きたら待機して再度送信する。  
+Collision Detection 同時に送信して衝突(コリジョン)が起きたら待機して再度送信する。  
 Multiple Access 複数のコンピューターで共有ができる。
 
 
