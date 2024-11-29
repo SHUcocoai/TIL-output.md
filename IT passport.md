@@ -322,3 +322,8 @@ httpというプロトコルを使用して◯◯.co.jpというネットワー�
 
 # MIME(Multipurpose Internet Mail Extensions)
 インターネットで電子メールで多様なファイル形式を扱えるようにした規格である。電子メールで本文に画像や音声など添付するときに使われる。
+
+# メールアドレスの形式  
+hrjej@jooo.co.jp  
+hrjej→ユーザー名  
+jooo.co.jp→ドメイン名
