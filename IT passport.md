@@ -325,5 +325,7 @@ httpというプロトコルを使用して◯◯.co.jpというネットワー�
 
 # メールアドレスの形式  
 hrjej@jooo.co.jp  
-hrjej→ユーザー名  
-jooo.co.jp→ドメイン名
+hrjej→ユーザー名 名前にあたる 
+jooo.co.jp→ドメイン名　住所にあたる
+
+# 
